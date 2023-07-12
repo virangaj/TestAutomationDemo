@@ -7,8 +7,7 @@
 
    <test name = "Test Automation Demo Testcases">
       <classes>
-         <class name = "com.automationdemo.testcases.HomePageTest" />
-         <class name = "com.automationdemo.testcases.LogonPageTest" />
+
       </classes>
    </test>
 
